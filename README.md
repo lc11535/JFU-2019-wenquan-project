@@ -1,5 +1,5 @@
-#部署方式
-1. 把文件夹"front-end"下的内容发送至装有centos7 64位系统的服务器
+# 部署方式
+1. 把"front-end.zip"在装有centos7 64位系统的服务器下解压至某个自定义文件夹。
 2. 服务器上执行命令。
 `
 curl -sL https://rpm.nodesource.com/setup_12.x | bash -
